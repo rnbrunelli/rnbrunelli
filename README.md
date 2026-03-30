@@ -59,10 +59,10 @@ I work with **Java/Spring Boot** on the backend and **Python/PySpark** for data 
 
 ## 🏅 Certifications
 
-<a href="[https://www.credly.com/badges](https://www.credly.com/badges/6119d4dd-10a0-4f9a-8e34-50c8ba79e353)" target="_blank">
+<a href="https://www.credly.com/badges/aa60208c-90f0-458f-84a1-f536c8cb1f2a" target="_blank">
   <img src="https://img.shields.io/badge/AWS_AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </a>
-<a href="[https://www.credly.com/badges](https://www.credly.com/badges/aa60208c-90f0-458f-84a1-f536c8cb1f2a/linked_in?t=t74kr3)" target="_blank">
+<a href="https://www.credly.com/badges/6119d4dd-10a0-4f9a-8e34-50c8ba79e353" target="_blank">
   <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </a>
 
