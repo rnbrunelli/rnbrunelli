@@ -1,10 +1,8 @@
-<h1 align="center">Hi, I'm Ricardo Brunelli 👋</h1>
-
+<h1 align="center">Olá, eu sou Ricardo Brunelli 👋</h1>
 <p align="center">
-  <b>Backend Engineer · Java · Python · PySpark · AWS</b><br/>
-  <i>Building scalable systems and data pipelines · São Paulo, Brazil</i>
+  <b>Desenvolvedor Backend · Java · Python · PySpark · AWS</b><br/>
+  <i>Sistemas escaláveis, pipelines de dados e arquitetura de microsserviços · São Paulo, Brasil</i>
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/ricardo-brunelli" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -19,20 +17,18 @@
 
 ---
 
-## 🧑‍💻 About me
+## 🧑‍💻 Sobre mim
 
-Backend engineer with experience in **high-scale financial systems**, including 4+ years at **Itaú Unibanco** — one of Latin America's largest banks.
+Desenvolvedor Backend com **4 anos de experiência** em sistemas financeiros de grande escala no **Itaú Unibanco** — um dos maiores bancos da América Latina — atuando na squad de Crédito PJ.
 
-I work with **Java/Spring Boot** on the backend and **Python/PySpark** for data engineering solutions — building and maintaining pipelines that process large volumes of data using **AWS Glue** and serverless functions with **AWS Lambda**.
+Trabalho com **Java/Spring Boot** no backend e **Python/PySpark** para engenharia de dados, construindo e mantendo pipelines que processam grandes volumes de dados com **AWS Glue**, **Lambda** e outros serviços da AWS. Já fui responsável integral por um produto interno, do discovery com o time de negócio até o deploy em produção.
 
-- 🔭 Currently looking for new opportunities as a **Backend Engineer**
-- 🌱 Interested in **cloud-native architectures** and **AI-powered applications**
-- 🌍 Open to **international opportunities** (English proficiency)
-- 📍 Based in **São Paulo, Brazil**
+- 🔭 Aberto a novas oportunidades como **Desenvolvedor Backend**
+- 🌱 Interesse em **arquiteturas cloud-native** e **aplicações com IA**
+- 🌍 Disponível para **oportunidades internacionais** — inglês fluente
+- 📍 Baseado em **São Paulo, Brasil**
 
----
-
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
 **Backend**
 
@@ -40,24 +36,35 @@ I work with **Java/Spring Boot** on the backend and **Python/PySpark** for data 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=moleculer&logoColor=white)
+![Microsserviços](https://img.shields.io/badge/Microsserviços-FF6F00?style=flat-square&logo=moleculer&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-**Data Engineering**
+**Engenharia de Dados**
 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 ![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certificações
 
 <a href="https://www.credly.com/badges/aa60208c-90f0-458f-84a1-f536c8cb1f2a" target="_blank">
   <img src="https://img.shields.io/badge/AWS_AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -77,12 +84,12 @@ I work with **Java/Spring Boot** on the backend and **Python/PySpark** for data 
 
 ---
 
-## 📫 Let's connect
+## 📫 Vamos conversar
 
-I'm open to new backend engineering opportunities — feel free to reach out!
+Estou aberto a novas oportunidades em desenvolvimento backend — fique à vontade para entrar em contato!
 
 <p align="center">
   <a href="https://linkedin.com/in/ricardo-brunelli">
-    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Me_chama_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
